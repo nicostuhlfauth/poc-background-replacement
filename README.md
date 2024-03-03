@@ -1,4 +1,4 @@
-# Remove of concept -- Background replacement
+# Proof of concept -- Background replacement
 
 This repository is intended to show how to replace background images directly on the client with React using the `@imgly/background-removal` package to remove the original background of the image.
 
